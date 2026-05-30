@@ -10,7 +10,7 @@ U.S. hospital networks face rising operational costs while patient satisfaction 
 Hospital Operations Director / CFO at a multi-facility U.S. hospital network
 ## 🛠 Tools Used
 - **Excel** — data cleaning, audit trail, exploratory pivot analysis
-- **SQLite + DB Browser** — relational data modeling, analytical queries
+- **MySQL** — relational data modeling, analytical queries
 - **Power BI** — interactive dashboard for stakeholder reporting
 ## 📦 Data Source
 CMS Hospital Compare — Centers for Medicare & Medicaid Services
