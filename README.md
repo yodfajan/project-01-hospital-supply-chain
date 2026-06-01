@@ -14,11 +14,11 @@ CMS Hospital Compare — Centers for Medicare & Medicaid Services
 https://data.cms.gov/provider-data/topics/hospitals
 Downloaded: [ADD DATE WHEN YOU DOWNLOAD]
 ## ❓ Key Business Questions
-1. [Write your Q1 here after Phase 01]
-2. [Write your Q2 here]
-3. [Write your Q3 here]
-4. [Write your Q4 here]
-5. [Write your Q5 here]
+1. What is the distribution of overall hospital star ratings across the U.S., and how does it vary by hospital type (acute care vs. critical access vs. children's) to determine which specific facility types require targeted quality-improvement funding?
+2. Which states/regions consistently outperform or underperform the national average in patient satisfaction scores, and is the gap widening or narrowing so that we can deploy mandatory state-level care intervention programs in the worst-performing areas?
+3. Is there a measurable relationship between a hospital's overall star rating and its performance on timely and effective care measures in order to decide if capital budgets should prioritize workflow efficiency or pivot toward safety and mortality metrics instead?
+4. What operational and care quality characteristics distinguish top-quartile hospitals (4–5 stars) from bottom-quartile hospitals (1–2 stars) so that we can use those findings to build a standardized turnaround playbook for struggling facilities?
+5. Does hospital ownership type (government, voluntary non-profit, proprietary for-profit) correlate with differences in patient satisfaction or care quality outcomes to determine if those differences require stricter corporate regulatory oversight?
 ## 📊 Dashboard Preview
 [Add screenshot after Phase 05]
 ## 💡 Key Findings
