@@ -12,6 +12,7 @@ Hospital Operations Director / CFO at a multi-facility U.S. hospital network
 ## 📦 Data Source
 CMS Hospital Compare — Centers for Medicare & Medicaid Services
 https://data.cms.gov/provider-data/topics/hospitals
+File(s): As 01_raw_data file
 Downloaded: 02/06/2026
 ## ❓ Key Business Questions
 1. What is the distribution of overall hospital star ratings across the U.S., and how does it vary by hospital type (acute care vs. critical access vs. children's) to determine which specific facility types require targeted quality-improvement funding?
