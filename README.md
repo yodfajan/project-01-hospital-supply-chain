@@ -20,12 +20,12 @@ Downloaded: [ADD DATE WHEN YOU DOWNLOAD]
 4. What operational and care quality characteristics distinguish top-quartile hospitals (4–5 stars) from bottom-quartile hospitals (1–2 stars) so that we can use those findings to build a standardized turnaround playbook for struggling facilities?
 5. Does hospital ownership type (government, voluntary non-profit, proprietary for-profit) correlate with differences in patient satisfaction or care quality outcomes to determine if those differences require stricter corporate regulatory oversight?
 ## 📊 Dashboard Preview
-[Add screenshot after Phase 05]
+[Add screenshot after Phase 06]
 ## 💡 Key Findings
-[Add after Phase 06]
-## ⚙ How to Reproduce
 [Add after Phase 07]
+## ⚙ How to Reproduce
+[Add after Phase 08]
 ## ⚠ Limitations
-[Add after Phase 06]
+[Add after Phase 07]
 ## 👤 Author
 Your Name | [LinkedIn URL] | [Email]
