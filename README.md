@@ -6,7 +6,7 @@ U.S. hospital networks face rising operational costs while patient satisfaction 
 ## 👥 Stakeholder
 Hospital Operations Director / CFO at a multi-facility U.S. hospital network
 ## 🛠 Tools Used
-- **Excel** — data cleaning, audit trail, exploratory pivot analysis
+- **Excel** — data cleaning, data wrangling, audit trail, exploratory pivot analysis
 - **MySQL** — relational data modeling, analytical queries
 - **Power BI** — interactive dashboard for stakeholder reporting
 ## 📦 Data Source
